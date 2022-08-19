@@ -1,5 +1,4 @@
 # 👋 Hi, I'm @koral-hizkiyau
-------------
 # Full-Stack / Frontend Developer
 
 💻 Using the latest WEB technologies such as React.js, Node.js, CSS3, and HTML.
