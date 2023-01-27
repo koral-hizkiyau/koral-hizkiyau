@@ -1,13 +1,13 @@
 <h1 align="center"> 👋 Hi, I'm koral-hizkiyau  </h1>
 
-## Full-Stack / Frontend Developer
+## Software Engineer
 
 💻 Using the latest WEB technologies such as React.js, Node.js, CSS3, and HTML.<br/>
 🤝🏻 Ability to work in a team, quick self-learning, multitasking, and problem solving.<br/>
 🔥Passionate about technology, curious about solving complex problems.
 
 ## About Me
-Hi, I'm Koral, a highly motivated full-stack developer, looking for my first job.<br/>
+Hi, I'm Koral, a highly motivated software engineer, looking for my first job.<br/>
 Ever since I can remember I have always been obsessed with computers and loved them ,<br/> I would spend my free time coding, learning and playing computer games :)
 
 
