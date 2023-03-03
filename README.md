@@ -20,4 +20,4 @@ Ever since I can remember I have always been obsessed with computers and loved t
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koral-hizkiyau&layout=compact)](https://github.com/koral-hizkiyau/)
 
-![](https://komarev.com/ghpvc/?username=koralhizkiyau)
+![](https://komarev.com/ghpvc/?username=koralhizkiyau&color=blueviolet&label=Visitors)
