@@ -6,7 +6,7 @@
 🔥Passionate about technology, curious about solving complex problems.
 
 ## About Me
-Hi, I'm Koral, a highly motivated computer science student with practical software engineer-diploma, looking for my first job.<br/>
+Hi, I'm Koral, a highly motivated computer science student with practical software engineer-diploma <br/>
 Ever since I can remember I have always been obsessed with computers and loved them ,<br/> I would spend my free time coding, learning and playing computer games :)
 
 
