@@ -1,5 +1,8 @@
 <h1 align="center"> 👋 Hi, I'm koral-hizkiyau  </h1>
 
+Feel free to check out my [Portfolio](https://portfolio-koral.netlify.app) for more projects.
+
+
 ## Computer Science Student
 💻 Using the latest WEB technologies such as React.js, Node.js, CSS3, and HTML.<br/>
 🤝🏻 Ability to work in a team, quick self-learning, multitasking, and problem solving.<br/>
